@@ -1,0 +1,14 @@
+C:\Users\GDC3\publish_core\publish_core\bin\Debug\netcoreapp2.2\publish_core.deps.json
+C:\Users\GDC3\publish_core\publish_core\bin\Debug\netcoreapp2.2\publish_core.runtimeconfig.json
+C:\Users\GDC3\publish_core\publish_core\bin\Debug\netcoreapp2.2\publish_core.runtimeconfig.dev.json
+C:\Users\GDC3\publish_core\publish_core\bin\Debug\netcoreapp2.2\publish_core.dll
+C:\Users\GDC3\publish_core\publish_core\bin\Debug\netcoreapp2.2\publish_core.pdb
+C:\Users\GDC3\publish_core\publish_core\obj\Debug\netcoreapp2.2\publish_core.csprojAssemblyReference.cache
+C:\Users\GDC3\publish_core\publish_core\obj\Debug\netcoreapp2.2\publish_core.csproj.CoreCompileInputs.cache
+C:\Users\GDC3\publish_core\publish_core\obj\Debug\netcoreapp2.2\publish_core.RazorAssemblyInfo.cache
+C:\Users\GDC3\publish_core\publish_core\obj\Debug\netcoreapp2.2\publish_core.RazorAssemblyInfo.cs
+C:\Users\GDC3\publish_core\publish_core\obj\Debug\netcoreapp2.2\publish_core.AssemblyInfoInputs.cache
+C:\Users\GDC3\publish_core\publish_core\obj\Debug\netcoreapp2.2\publish_core.AssemblyInfo.cs
+C:\Users\GDC3\publish_core\publish_core\obj\Debug\netcoreapp2.2\publish_core.RazorTargetAssemblyInfo.cache
+C:\Users\GDC3\publish_core\publish_core\obj\Debug\netcoreapp2.2\publish_core.dll
+C:\Users\GDC3\publish_core\publish_core\obj\Debug\netcoreapp2.2\publish_core.pdb
